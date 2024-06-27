@@ -32,9 +32,8 @@
 	},
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	"postCreateCommand": "pip3 install -r requirements.txt"
-	"postCreateCommand": "git config --global user.name agiletoolkit"
-	"postCreateCommand": "git config --global user.email bob@electroglide.biz"
+	"postCreateCommand": "pip3 install -r requirements.txt", "git config --global user.name agiletoolkit",	"git config --global user.email bob@electroglide.biz"
+	
 
 	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
 	// "remoteUser": "root"
