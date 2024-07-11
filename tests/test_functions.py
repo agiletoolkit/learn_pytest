@@ -12,4 +12,4 @@ def test_mult():
     assert my_fun.mult(2,3)==6
     
 def test_mult2():    
-    assert my_fun.mult(3,3)==5
+    assert my_fun.mult(3,3)==9
