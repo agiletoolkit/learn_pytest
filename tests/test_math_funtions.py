@@ -10,6 +10,4 @@ def test_add():
 
 def test_mult():
     assert math_functions.multiply(2,3)==6
-    
-def test_mult2():    
     assert math_functions.multiply(3,3)==9
