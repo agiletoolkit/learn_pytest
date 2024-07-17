@@ -1,3 +1,6 @@
+#implementation of FizzBuz
+
+
 def buzzy_boy(i):
     
     ret=''

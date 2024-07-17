@@ -8,6 +8,8 @@ import os.path
 sys.path.append(
     os.path.abspath(os.path.join(os.path.dirname(__file__), os.path.pardir)))
 
+# use fizz_buzz.buzzy_boy
+
 import fizz_buzz
 
 def test_fizz_buzz_number_return():
